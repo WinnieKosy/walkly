@@ -32,7 +32,7 @@ class AppButton extends StatelessWidget {
             Icon(
               icon,
               size: iconSize ??  18,
-              color: iconColor ?? Colors.black,
+              color: iconColor ??  Colors.black,
             ),
       ),
     );
