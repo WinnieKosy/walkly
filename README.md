@@ -1,16 +1,23 @@
-# walkly
+# Walkly
 
-A new Flutter project.
 
-## Getting Started
+# task
 
-This project is a starting point for a Flutter application.
+Walkly Task
 
-A few resources to get you started if this is your first Flutter project:
+### Environment setup
+This is a Flutter application and requires you have flutter installed on your computer.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Flutter installation
+You should follow the [Flutter installation guide here](https://flutter.dev/docs/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Setting up locally
+- Clone the repo locally `https://github.com/WinnieKosy/walkly.git `
+- Run flutter pub get to install the required dart packages
+
+### Running the application
+All you need to run the application is flutter run
+
+[Download apk ](https://drive.google.com/file/d/1E99bJpsmkVBCJa7yaQ8_zX76lbMm6wbd/view?usp=drive_link)
+
+[Web app ](https://walkly-72ffe.web.app)
